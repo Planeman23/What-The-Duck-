@@ -72,4 +72,4 @@ This is a close up of this interesting system.
 
 This is an image of the wing to this glider, this wing was diffucilt to design, as angles are everything when dealing with an airplane with dihedral. The blue tape is there to hold the end panels at the proper angles while the glue dries.
 
-And once everything has been glod together with some simple hot glue, and that glue has dried, it is done. 
+And once everything has been glued together with some simple hot glue, and that glue has dried, it is done. 
