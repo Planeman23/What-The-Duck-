@@ -2,13 +2,15 @@
 
 This is an awesome project to make a glider!
 
-This Glider is designed with dihedral in the wings, which makes it's handling very nice. And, since it has a servomechanism paired to it's rudder surface, it can be controlled midair to turn and bank. 
+This Glider is designed with dihedral in the wings, which makes it's handling very nice. Dihedral makes the airpane want to track straight, and it does this via angled wings and gravity (think of a leaf falling off a tree, going back and forth like a pendulum as it's on it's way to the ground. Since the airplane has a servomechanism paired to it's rudder surface, it can be controlled midair to turn and bank. 
 
 ## Photos
 
-![Final Glider](final.jpg)
+![Final Glider](glider%20final2.jpg.jpg)
 
-![Final Glider](final glider2.jpg)
+This is the final product, continue reading to see how it was made!
 
-This is the final product
+## Build Process
+
+![Final Glider](materials.jpg)
 
